@@ -64,8 +64,13 @@
         {
           "href": "https://dribbble.com/olegmilshtein",
           "text": "Dribbble"
+        },
+        {
+          "href": "ret",
+          "text": "ert"
         }
-      ]
+      ],
+      "image": ""
     },
     {
       "component": "article",
