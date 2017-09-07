@@ -41,8 +41,8 @@
     },
     {
       "component": "header",
-      "heading": "test2",
-      "subhead": null,
+      "heading": "Awesome UI",
+      "subhead": "lets test it",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -53,6 +53,12 @@
           "component": "ui/GithubButton",
           "user": "olegmil",
           "repo": "test2"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://dribbble.com/olegmilshtein",
+          "text": "Dribbble"
         }
       ]
     },
